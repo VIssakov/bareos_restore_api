@@ -22,4 +22,4 @@ python3 bareos_restore_api.py --restore --sclient <client_name> /source/for/rest
 --dpath - в какую директорию будем восстанавливать
 
 ------------------
-***Автор:*** Исаков Валерий <isakovvv@yamoney.ru>
+***Автор:*** Исаков Валерий <valeriy.issakov@gmail.com>
